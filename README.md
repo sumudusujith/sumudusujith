@@ -24,5 +24,8 @@ This is about me :
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumudusujith&hide=TeX&layout=compact)
+
+
