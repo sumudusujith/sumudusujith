@@ -2,6 +2,7 @@
 <h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕</h3>
 
 ### Connect with me:
+<p align="center">
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 [![Instagram](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Instagram&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
 [![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/sumudu_sujith/)](https://twitter.com/sumudu_sujith/)
