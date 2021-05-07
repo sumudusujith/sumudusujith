@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudusujith&color=brightgreen" alt="sumudusujith" /> </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/sumudu_sujith?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/sumudusujith?logo=GitHub&style=for-the-badge)
+
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
+[![Instagram](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Instagram&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
+[![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/sumudu_sujith/)](https://twitter.com/sumudu_sujith/)
+[![Gmail](https://img.shields.io/badge/-E-Mail-blue?style=for-the-badge&logo=Gmail&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
 
 
 - 🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)
