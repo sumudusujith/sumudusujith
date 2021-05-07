@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 [![Instagram](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Instagram&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
 [![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/sumudu_sujith/)](https://twitter.com/sumudu_sujith/)
-[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
+[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
 <a href="https://sumudusujith.github.io"><img src="https://img.shields.io/badge/-sumudusujith.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 
 
