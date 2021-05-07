@@ -41,7 +41,6 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
 - ⚙️ &nbsp;
@@ -56,7 +55,4 @@
 <br />
 <br />
 ---
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumudusujith&layout=compact&langs_count=8&theme=dark)
