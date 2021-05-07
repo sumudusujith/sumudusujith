@@ -33,7 +33,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
