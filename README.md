@@ -1,31 +1,69 @@
-<img align="left" alt="Hi" width="100px" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" /> 
-<br>
-<h1 align="left">Hello there... 👋</h1>
+<h1 align="center">Hi 👋, I'm Sumudu Herath</h1>
+<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕</h3>
 
-This is about me :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudusujith&color=brightgreen" alt="sumudusujith" /> </p>
 
-- 🔭 I’m currently working on ...University Project
-- 🌱 I’m currently learning ...ReactJs
-- 🤔 I’m looking for help with ...Firebase
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/sumudusujith/)
-- 😄 Pronouns: ...He/His
--->
+![Twitter Follow](https://img.shields.io/twitter/follow/sumudu_sujith?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/sumudusujith?logo=GitHub&style=for-the-badge)
+[![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 
 
-## ⚡ Technologies
+- 🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+- 🌱 I’m currently learning **ReactJs**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumudusujith&hide=TeX&layout=compact)
+- 👯 I’m looking to collaborate on **open source/commercial projects**
+
+- ❤ I’m an open source lover
+
+- 💬 Ask me about **Anything You want to know**
+
+- 📫 How to reach me **sumudu.2019582@iit.ac.lk**
+
+### Connect with me:
+
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/sumudu_sujith)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/sumudusujith)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/sujith_herath/)<br>
+[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
+<br />
+
+### ⚡ Languages and Tools:
+
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Python](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Inteli J](https://img.shields.io/badge/-Inteli%20J-333333?style=flat&logo=Inteli-J&logoColor=007ACC)
+
+
+<br />
+<br />
+---
+
+---
+![Sumudu's github stats](https://github-readme-stats.vercel.app/api?username=sumudusujith&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumudusujith&layout=compact&langs_count=8&theme=dark)
