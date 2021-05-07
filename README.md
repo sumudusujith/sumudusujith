@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudusujith&color=brightgreen" alt="sumudusujith" /> </p>
 
-
+### Connect with me:
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 [![Instagram](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Instagram&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
 [![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/sumudu_sujith/)](https://twitter.com/sumudu_sujith/)
-[![Gmail](https://img.shields.io/badge/-E-Mail-blue?style=for-the-badge&logo=Gmail&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
+[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
 
 
 - 🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)
@@ -22,13 +22,6 @@
 
 - 📫 How to reach me **sumudu.2019582@iit.ac.lk**
 
-### Connect with me:
-
-[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/sumudu_sujith)
-[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/sumudusujith)
-[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/sujith_herath/)<br>
-[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
-<br />
 
 ### ⚡ Languages and Tools:
 
