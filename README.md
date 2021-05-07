@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumudu Herath</h1>
 <h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudusujith&color=brightgreen" alt="sumudusujith" /> </p>
-
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 [![Instagram](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Instagram&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
@@ -60,5 +58,5 @@
 ---
 
 ---
-![Sumudu's github stats](https://github-readme-stats.vercel.app/api?username=sumudusujith&layout=compact&langs_count=8&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumudusujith&layout=compact&langs_count=8&theme=dark)
