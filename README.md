@@ -49,7 +49,7 @@
  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Inteli J](https://img.shields.io/badge/-Inteli%20J-333333?style=flat&logo=Inteli-J&logoColor=007ACC)
+  ![Inteli J](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=007ACC)
 
 
 <br />
