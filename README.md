@@ -42,6 +42,9 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+   ![Adobe XD](https://img.shields.io/badge/-adobexd-333333?style=flat&logo=adobexd)
+   ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
 
 
 - ⚙️ &nbsp;
