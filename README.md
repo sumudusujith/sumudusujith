@@ -43,7 +43,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-   ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-333333?style=flat&logo=Adobe-XD)
+   ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-333333?style=flat&logo=AdobeXD)
    ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
 
 
