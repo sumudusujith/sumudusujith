@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Anything You want to know**
 
-- 📫 How to reach me **sumudu.2019582@iit.ac.lk**
+- 📫 How to reach me **sumudusujith@gmail.com**
 
 
 ### 🛠 &nbsp;Tech Stack
