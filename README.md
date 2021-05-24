@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sumudusujith/)](https://www.linkedin.com/in/sumudusujith/)
 [![Instagram](https://img.shields.io/badge/-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sujith_herath/)](https://instagram.com/sujith_herath/)
 [![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/sumudu_sujith/)](https://twitter.com/sumudu_sujith/)
-[![Gmail Badge](https://img.shields.io/badge/-sumudu.2019582@iit.ac.lk-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sumudu.2019582@iit.ac.lk)](mailto:sumudu.2019582@iit.ac.lk)
+[![Gmail Badge](https://img.shields.io/badge/-sumudusujith@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sumudusujith@gmail.com)](mailto:sumudusujith@gmail.com)
 <a href="https://sumudusujith.github.io"><img src="https://img.shields.io/badge/-sumudusujith.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 
@@ -43,7 +43,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-   ![Adobe XD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=AdobeXD)
+   ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-333333?style=flat&logo=Adobe-XD)
    ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
 
 
@@ -55,6 +55,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Inteli J](https://img.shields.io/badge/IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?style=flat&logo=PyCharm&logoColor=007ACC)
 
 
 <br />
