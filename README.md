@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 
