@@ -50,7 +50,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-333333?style=flat&logo=bitbucket)
   
   ![Sourcetree](https://img.shields.io/badge/-Sourcetree-333333?style=flat&logo=sourcetree)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
