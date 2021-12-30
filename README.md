@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumudu Herath</h1>
-<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕  | UI/UX |  <b>CEH</b></h3>
+<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕  | UI/UX |  <b>CEH<b></h3>
 
 ### Connect with me:
 
