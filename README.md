@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumudu Herath</h1>
-<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕  | UI/UX | CEH</h3>
+<h3 align="center">Tech Enthusiast 🐧 | SE Graduate 🎓 | Web Developer 💻| Mobile Developer ☕  | UI/UX | CEH</h3>
 
 ### Connect with me:
 
@@ -10,13 +10,11 @@
 <a href="https://sumudusujith.github.io"><img src="https://img.shields.io/badge/-sumudusujith.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 
-- 🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently a Graduate from the University of Westminster. (IIT - Colombo)
 
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 
-- ❤ I’m an open source lover
+- ❤ I’m an open source lover.
 
 - 💬 Ask me about **Anything You want to know**
 
