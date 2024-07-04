@@ -10,7 +10,7 @@
 <a href="https://sumudusujith.github.io"><img src="https://img.shields.io/badge/-sumudusujith.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 
-- 🔭 I’m currently a Graduate from the University of Westminster. (IIT - Colombo)
+- 🔭 Graduate from the University of Westminster. (IIT - Colombo)
 
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 
